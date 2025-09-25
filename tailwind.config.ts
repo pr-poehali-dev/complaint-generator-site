@@ -61,6 +61,31 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				government: {
+					DEFAULT: '#0066CC',
+					50: '#E6F2FF',
+					100: '#CCE5FF',
+					200: '#99CCFF',
+					300: '#66B2FF',
+					400: '#3399FF',
+					500: '#0066CC',
+					600: '#0052A3',
+					700: '#003D7A',
+					800: '#002952',
+					900: '#001429',
+				},
+				neutral: {
+					50: '#F5F5F5',
+					100: '#EEEEEE',
+					200: '#E0E0E0',
+					300: '#BDBDBD',
+					400: '#9E9E9E',
+					500: '#757575',
+					600: '#616161',
+					700: '#424242',
+					800: '#333333',
+					900: '#212121',
 				}
 			},
 			borderRadius: {
